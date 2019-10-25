@@ -300,11 +300,6 @@ article ul li a:hover {
     display: inline;
 	margin: 7px;
 }
-.share a:hover {
-   opacity: .6;
-   transition: fill 0.3s;
-}
-
 
 .share-page {
    margin-top: 15px;
