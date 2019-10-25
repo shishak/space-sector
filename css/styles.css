@@ -148,7 +148,11 @@ h2 {
 }
 .grid-item {
     margin-bottom: 0.5rem;
-}		
+}
+.footer-container {
+  margin-top: 0;
+}
+	
 }
 	
 .grid p, .grid table{display:none}
