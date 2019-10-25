@@ -133,7 +133,7 @@ h2 {
 }
 
 @media all and (max-width: 800px) {
-.box {
+.box:nth-last-child(1n+0) {
    width: 100%;
 }
 .box {
