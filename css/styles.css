@@ -264,10 +264,8 @@ ul {
   color: rgba(0, 0, 0, 0.7);
 }
 article h3 {
-  font-weight: normal;
-  color: rgba(0, 0, 0, 0.7);
-  margin: 1em 0;
-  font-size: 16px;
+     color: #BDBDBD;
+    font-weight: 400;
 }
 
 article ul {
@@ -279,7 +277,8 @@ article ul {
 
 article ul li {
   margin: 1em 0;
-	font-size: 12px;
+  font-size: 14px;
+  color: #757575;
 }
 
 article ul li a:hover {
