@@ -149,9 +149,6 @@ h2 {
 }
 .grid-item {
     margin-bottom: 0.5rem;
-}
-.share-header, .right-header {
-   display: none;
 }		
 }
 	
@@ -299,6 +296,13 @@ article ul li a:hover {
 .share {
     display: inline;
 	margin: 7px;
+	opacity: .7;
+	transition: opacity 0.3s;
+}
+
+.share a:hover {
+    opacity: 1;
+    transition: opacity 0.3s;
 }
 
 .share-page {
