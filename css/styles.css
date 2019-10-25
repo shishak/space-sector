@@ -233,13 +233,12 @@ footer {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-gap: 1rem;
-  margin-bottom: 5em;
 }
 
 .footer-container {
   max-width: 1140px;
   margin: 0 auto;
-  padding: 4em 0 2em 0;
+      padding: 0em 2em 0em;
 }
 
 .footer-bottom {
@@ -267,14 +266,10 @@ ul {
   margin: 0 0.5em;
   color: rgba(0, 0, 0, 0.7);
 }
-
-article {
-  font-size: 90%;
-}
-
 article h3 {
   font-weight: normal;
   color: rgba(0, 0, 0, 0.7);
+  margin: 1em 0;
 }
 
 article ul {
@@ -285,7 +280,7 @@ article ul {
 }
 
 article ul li {
-  margin: 0.4em 0;
+  margin: 1em 0;
 }
 
 article ul li a:hover {
