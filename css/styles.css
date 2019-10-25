@@ -297,7 +297,7 @@ article ul li a:hover {
    margin-top: 5px;
    transition: opacity 0.3s;
 }
-.item-page, .share-page:hover {
+.item-page:hover, .share-page:hover {
     opacity: .8;
     transition: opacity 0.3s;
 }
