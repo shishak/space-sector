@@ -293,14 +293,7 @@ article ul li a:hover {
   text-decoration: underline;
 }
 
-.share {
-    display: inline;
-	margin: 7px;
-	opacity: .7;
-	transition: opacity 0.3s;
-}
-
-.share a:hover {
+.share-page a:hover {
     opacity: 1;
     transition: opacity 0.3s;
 }
