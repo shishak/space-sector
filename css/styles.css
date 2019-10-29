@@ -125,8 +125,10 @@ h3, h4, h5 {
 }
 
 figcaption {
-    font-family: Roboto,Helvetica,Arial,sans-serif;
-    margin-top: 10px;
+        font-family: Roboto,Helvetica,Arial,sans-serif;
+    margin-top: 20px;
+    color: #757574;
+    margin-bottom: 40px;
 }
 
 h1 {
