@@ -81,11 +81,12 @@ header {
   color: #757575;
 }
 .date-title {
-  font-size: 16px;
-  margin-bottom: 50px;
-  margin-top: 10px;
-  color: #303030;
-  margin-left: 20px;
+    color: #BDBDBD;
+    font-size: 14px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: 200;
 }
 .content {
   max-width: 850px;
