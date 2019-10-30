@@ -287,9 +287,8 @@ article a {
 }
 
 .item-page, .share-page {
-   margin-top: 10px;
-   transition: opacity 0.3s;
    width: 270px;
+    color: #BDBDBD;
 }
 
 @media all and (max-width: 1119px) {
