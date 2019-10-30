@@ -72,7 +72,7 @@ header {
 	z-index: 2;
 }
 
-.date-title-home, .date-title, figcaption, footer, h3, h4, h5 {
+.date-title-home, .date-title, figcaption, footer, h3, h4, h5, .wp-caption-text {
    font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 
@@ -306,3 +306,6 @@ article ul li a:hover {
 
 }
 
+
+
+	
