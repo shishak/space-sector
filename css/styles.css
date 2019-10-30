@@ -75,6 +75,9 @@ header {
 .date-title-home, .date-title, figcaption, footer, h3, h4, h5, .wp-caption-text {
    font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
+.wp-caption-text {
+  font-size: 16px;
+}
 
 .date-title-home {
   font-size: 14px;
