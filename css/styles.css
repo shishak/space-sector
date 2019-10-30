@@ -130,9 +130,11 @@ h3, h4, h5 {
 }
 
 figcaption {
-    margin-top: 20px;
-    color: #757574;
+    color: #757575;
     margin-bottom: 40px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 200;
 }
 
 h1 {
