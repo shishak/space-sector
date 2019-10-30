@@ -3,3 +3,4 @@ layout: layouts/base.njk
 title: Sector Space
 ---
 <div class="grid">{% for item in home.posts %}<div class="col box"><a class="grid-item" href="/{{ item.path }}">{{ item['content:encoded'] | safe }}<div class="grid-item-content"><div class="date-title-home"> {{ item.pubDate | date }}</div><h2>{{ item.title }}</h2></div></a></div>{% endfor %}</div>
+<div class="grid">{% for item in homenasa.posts %}<div class="col box"><a class="grid-item" href="http://www.nasa.gov/press-release/{{ item.path }}">{{ item['content:encoded'] | safe }}<div class="grid-item-content"><div class="date-title-home"> {{ item.pubDate | date }}</div><h2>{{ item.title }}</h2></div></a></div>{% endfor %}</div>
