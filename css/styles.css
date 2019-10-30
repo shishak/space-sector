@@ -286,17 +286,10 @@ article a {
   color: #616161;
 }
 
-article ul li a:hover {
-  text-decoration: underline;
-}
-
 .item-page, .share-page {
    margin-top: 10px;
    transition: opacity 0.3s;
-}
-.item-page:hover, .share-page:hover {
-    opacity: .8;
-    transition: opacity 0.3s;
+   width: 270px;
 }
 
 @media all and (max-width: 1119px) {
