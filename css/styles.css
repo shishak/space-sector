@@ -164,6 +164,9 @@ h1 {
  .container {
    padding: 0;	
 }
+ header {
+    height: 70px;
+}
 }
 	
 .grid p, .grid table{display:none}
