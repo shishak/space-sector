@@ -63,6 +63,7 @@ header {
 .grid-item img {
   width: 100%;
   object-fit: cover;
+  max-height: 210px;
 }
 .grid-item-content {
   padding-top: 1.5rem;
