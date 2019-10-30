@@ -154,7 +154,7 @@ h1 {
 	margin-bottom: 0;
 }
 
-.box:nth-of-type(4), .box:nth-of-type(5), .box:nth-of-type(9), .box:nth-of-type(10), .box:nth-of-type(14), .box:nth-of-type(15), .box:nth-of-type(19), .box:nth-of-type(20) {
+.box:nth-of-type(4), .box:nth-of-type(5), .box:nth-of-type(9), .box:nth-of-type(10), .box:nth-of-type(14), .box:nth-of-type(15), .box:nth-of-type(19), .box:nth-of-type(20), .box:nth-of-type(24), .box:nth-of-type(25), .box:nth-of-type(29), .box:nth-of-type(30), .box:nth-of-type(34), .box:nth-of-type(35), .box:nth-of-type(39), .box:nth-of-type(40), .box:nth-of-type(44), .box:nth-of-type(45), .box:nth-of-type(49), .box:nth-of-type(50) {
    width: 50%; 
 }
 
@@ -190,7 +190,7 @@ h1 {
 }
 
 
-.box:nth-of-type(2) h2, .box:nth-of-type(4) h2, .box:nth-of-type(8) h2, .box:nth-of-type(9) h2, .box:nth-of-type(13) h2, .box:nth-of-type(14) h2, .box:nth-of-type(17) h2 {
+.box:nth-of-type(2) h2, .box:nth-of-type(4) h2, .box:nth-of-type(8) h2, .box:nth-of-type(9) h2, .box:nth-of-type(13) h2, .box:nth-of-type(14) h2, .box:nth-of-type(17) h2, .box:nth-of-type(22) h2  {
    font-family: Roboto,Helvetica,Arial,sans-serif;
     line-height: 28px;
     font-weight: 500;
