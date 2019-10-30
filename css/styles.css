@@ -220,14 +220,10 @@ h1 {
 	font-size: 0;
 }
 
-.grid-item b {
-  font-size: 0;
-  height: 0;
-}
-
 small {
-  color: #616161;
-  font-size: 15px;
+  color: #9E9E9E;
+    font-size: 15px;
+    font-weight: 200;
 }
 
 footer {
