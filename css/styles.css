@@ -146,13 +146,10 @@ figcaption {
 }
 
 h1 {
-  font-size: 48px;
-    font-weight: 500;
-    line-height: 48px;
-    margin-left: 20px;
-    margin-right: 20px;
-	margin-top: 0;
-	margin-bottom: 0;
+    font-size: 68px;
+    font-weight: 800;
+    line-height: 68px;
+    margin: 0 20px;
 }
 
 .box:nth-of-type(4), .box:nth-of-type(5), .box:nth-of-type(9), .box:nth-of-type(10), .box:nth-of-type(14), .box:nth-of-type(15), .box:nth-of-type(19) {
