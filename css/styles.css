@@ -114,7 +114,7 @@ twitter-widget {
   float: right;
 }
 	
-p img {
+.content img {
    object-fit: cover;
    height: auto;
    float: left;
