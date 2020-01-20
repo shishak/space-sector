@@ -278,6 +278,8 @@ article ul {
 article a {
   font-size: 16px;
   color: #616161;
+  line-height: 30px;
+  padding: 7px;
 }
 
 .item-page, .share-page {
