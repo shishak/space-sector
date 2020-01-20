@@ -149,7 +149,7 @@ h1 {
     font-weight: 800;
     line-height: 68px;
     margin: 0 20px;
-    color: #565656;
+    color: #fff;
 }
 
 .box:nth-of-type(4), .box:nth-of-type(5), .box:nth-of-type(9), .box:nth-of-type(10), .box:nth-of-type(14), .box:nth-of-type(15), .box:nth-of-type(19) {
