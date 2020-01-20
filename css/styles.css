@@ -116,8 +116,9 @@ header {
    object-fit: cover;
    height: auto;
    float: left;
-   margin-right: 50px;
+   margin-top: 150px;
    margin-bottom: 40px;
+   max-width: 550px;
 }
 
 .sidebar {
