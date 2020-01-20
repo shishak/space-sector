@@ -81,6 +81,12 @@ header {
     opacity: .8;
 }
 
+.wp-block-embed__wrapper {
+   position: absolute;
+   max-width: 250px;
+   left: 10px;
+}
+
 .date-title-home {
   font-size: 14px;
   color: #757575;
