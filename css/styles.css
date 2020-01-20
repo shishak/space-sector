@@ -33,9 +33,7 @@ a:hover {
   transition: opacity 0.3s;	
 }
 em {
-  font-size: 16px;
   opacity: .6;
-  margin: 20px;
 }
 
 header {
