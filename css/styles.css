@@ -105,6 +105,7 @@ header {
 .content p {
   margin-left: 50px;
   color: #fff;
+  margin-bottom: 50px;
 }
 
 .sidebar {
