@@ -107,8 +107,11 @@ header {
 }
 
 .content img {   
-    object-fit: cover;
-	    height: auto;
+   object-fit: cover;
+   height: auto;
+   float: left;
+   margin-right: 50px;
+   margin-bottom: 40px;
 }
 
 .sidebar {
