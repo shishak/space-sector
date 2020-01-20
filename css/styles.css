@@ -80,9 +80,6 @@ header {
 .date-title-home, .date-title, figcaption, footer, h3, h4, .wp-caption-text {
    font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
-.wp-caption-text {
-    opacity: .8;
-}
 
 twitter-widget {
    margin-top: 100px;
@@ -113,7 +110,11 @@ twitter-widget {
   color: #fff;
 }
 
-.content img {   
+.sidebar {
+  float: right;
+}
+	
+p img {
    object-fit: cover;
    height: auto;
    float: left;
@@ -121,14 +122,6 @@ twitter-widget {
    margin-bottom: 40px;
    max-width: 550px;
    margin-right: 50px;
-}
-
-.sidebar {
-  float: right;
-}
-	
-p img {
-   margin-bottom: 30px;
 }
 
 h2 {
@@ -147,7 +140,7 @@ h3, h4 {
     font-weight: 400;
 }
 
-figcaption {
+figcaption, .wp-caption-text {
     color: #757575;
     font-size: 14px;
     margin-top: 60px;
