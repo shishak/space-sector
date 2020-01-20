@@ -32,6 +32,12 @@ a:hover {
   opacity: .8;
   transition: opacity 0.3s;	
 }
+em {
+  font-size: 16px;
+  opacity: .6;
+  margin: 20px;
+}
+
 header {
    text-align: center;
    height: 60px;
