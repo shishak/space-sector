@@ -32,8 +32,10 @@ a:hover {
   opacity: .8;
   transition: opacity 0.3s;	
 }
-em {
-  font-weight: 800;
+blockquote {
+  opacity: .6;
+  font-size: 16px;
+  padding: 50px;
 }
 
 header {
