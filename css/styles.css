@@ -17,8 +17,11 @@ body {
 iframe {
   width: 100%;
   height: 500px;
-  margin-top: 70px;
-  margin-bottom: 70px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  max-width: 500px;
+  float: left;
+  margin-right: 50px;
 }
 a {
   text-decoration: none;
@@ -80,12 +83,6 @@ header {
 .date-title-home, .date-title, figcaption, footer, h3, h4, .wp-caption-text {
    font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
-
-twitter-widget {
-   margin-top: 100px;
-    margin-bottom: 100px;
-}
-
 .date-title-home {
   font-size: 14px;
   color: #757575;
