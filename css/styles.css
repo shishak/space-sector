@@ -140,10 +140,10 @@ h3, h4 {
 
 figcaption, .wp-caption-text {
     opacity: .3;
-    font-size: 14px;
+    font-size: 12px;
    margin-top: -550px;
   font-family: Roboto,Helvetica,Arial,sans-serif;
- font-style: normal;
+ font-style: italic;
   position: absolute;
   width: 300px;
 }
