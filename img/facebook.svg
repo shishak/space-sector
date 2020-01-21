@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="263px" height="60px" viewBox="0 0 263 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facebook">
+            <rect id="Rectangle-path" fill="#3768B0" fill-rule="nonzero" x="0.5" y="0.5" width="262" height="59" rx="5"></rect>
+            <text id="SHARE-POST-TO-FACEBO" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="51" y="35">SHARE POST TO FACEBOOK</tspan>
+            </text>
+            <path d="M29.188,25.375 L32.001,25.375 L32.001,22 L29.188,22 C27.017,22 25.25,23.766 25.25,25.938 L25.25,27.626 L23,27.626 L23,31.001 L25.25,31.001 L25.25,40.001 L28.625,40.001 L28.625,31.001 L31.438,31.001 L32.001,27.626 L28.626,27.626 L28.626,25.938 C28.626,25.633 28.884,25.375 29.189,25.375 L29.188,25.375 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
