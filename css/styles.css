@@ -284,6 +284,7 @@ article a {
 .item-page, .share-page {
    width: 230px;
     color: #BDBDBD;
+  margin-bottom: 20px;
 }
 
 @media all and (max-width: 1119px) {
