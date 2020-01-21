@@ -20,7 +20,6 @@ iframe {
   margin-top: 50px;
   margin-bottom: 50px;
   margin-right: 50px;
-  margin-left: -50px;
 }
 a {
   text-decoration: none;
@@ -101,10 +100,9 @@ header {
   float: left;
 }
 .content p {
-  margin-left: 50px;
-  color: #fff;
+  padding-left: 50px;
+  color: #cbcbcb;
   margin-bottom: 50px;
-  opacity: .8;
 }
 
 .sidebar {
@@ -141,13 +139,13 @@ h3, h4 {
 figcaption, blockquote, .wp-caption-text {
     opacity: .6;
     font-size: 14px;
-   margin-top: -220px;
+   margin-top: -65%;
    margin-bottom: 50px;
   font-family: Roboto,Helvetica,Arial,sans-serif;
  font-style: normal;
   position: absolute;
   margin-left: 900px;
-  width: 200px;
+  width: 300px;
 }
 
 h1 {
