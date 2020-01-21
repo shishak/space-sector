@@ -115,7 +115,7 @@ header {
    height: 100%;
    margin-bottom: 50px;
   max-height: 500px;
-   margin-left: 20px;
+ 
   margin-top: 20px;
 }
 
@@ -149,10 +149,10 @@ figcaption, .wp-caption-text {
   width: 250px;
 }
 figcaption {
-   margin-left: 920px;
+   margin-left: 900px;
 }
 .wp-caption-text {
-   margin-left: 870px;
+   margin-left: 850px;
 }
 
 
