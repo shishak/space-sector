@@ -142,9 +142,8 @@ figcaption, blockquote, .wp-caption-text {
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 42px;
     font-weight: 800;
-    line-height: 48px;
     margin: 0 20px;
     color: #fff;
 }
