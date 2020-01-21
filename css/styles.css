@@ -116,7 +116,7 @@ header {
    margin-bottom: 50px;
 }
 
-.content ul {
+.content ul, h4 {
     display: none;
 }
 
