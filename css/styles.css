@@ -115,6 +115,7 @@ header {
    height: 100%;
    margin-bottom: 50px;
   max-height: 500px;
+   margin-left: 20px;
 }
 
 .content ul, h4 {
@@ -138,20 +139,19 @@ h3, h4 {
 }
 
 figcaption, .wp-caption-text {
-    opacity: .4;
+    opacity: .3;
     font-size: 14px;
-   margin-top: -500px;
-   margin-bottom: 50px;
+   margin-top: -550px;
   font-family: Roboto,Helvetica,Arial,sans-serif;
  font-style: normal;
   position: absolute;
   width: 250px;
 }
 figcaption {
-   margin-left: 900px;
+   margin-left: 920px;
 }
 .wp-caption-text {
-   margin-left: 850px;
+   margin-left: 870px;
 }
 
 
