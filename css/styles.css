@@ -132,11 +132,15 @@ h2 {
   font-size: 1.5rem;
   font-weight: 400;
 }
-
 h5 {
-    line-height: 152px;
-    text-align: center;
-    width: 100%;
+  font-size: 32px;
+    font-weight: 600;
+    line-height: 352px;
+    letter-spacing: -1px;
+    color: #444;
+    font-family: sans-serif;
+	width: 100%;
+	text-align: center;
 }
 
 h4 {
@@ -145,8 +149,9 @@ h4 {
     font-weight: 400;
 }
 h3{
-    margin-left: 50px;
+    margin-left: 45px;
     font-weight: 400;
+	font-size: 22px;
 }
 
 figcaption, .wp-caption-text {
