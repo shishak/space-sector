@@ -315,6 +315,10 @@ article a {
 .content {
    float: none;
 }
+  figcaption, .wp-caption-text [
+  display: none;
+}
+	
  .sidebar {
    display: none;
 }
