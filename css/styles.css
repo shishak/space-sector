@@ -240,7 +240,7 @@ h1 {
 }
 .box:nth-of-type(4) .date-title-home, .box:nth-of-type(5) .date-title-home {
    color: #fff;
-   opacity: .7;
+   opacity: .4;
 }
 }
 
