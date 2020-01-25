@@ -133,6 +133,12 @@ h2 {
   font-weight: 400;
 }
 
+h5 {
+    line-height: 152px;
+    text-align: center;
+    width: 100%;
+}
+
 h3, h4 {
     margin-left: 50px;
     font-size: 34px;
