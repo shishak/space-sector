@@ -315,7 +315,7 @@ article a {
 .content {
    float: none;
 }
-  figcaption, .wp-caption-text [
+  figcaption, .wp-caption-text {
   display: none;
 }
 	
